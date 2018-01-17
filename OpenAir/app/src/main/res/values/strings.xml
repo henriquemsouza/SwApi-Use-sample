@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Star wars API</string>
+
+
+    <string-array name="numbers_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+
+
+    </string-array>
+    <string name="user_nametxt">Name</string>
+    <string name="locationtxt">homeworld</string>
+    <string name="brr_ntxt">birth year</string>
+    <string name="films">Films</string>
+</resources>
